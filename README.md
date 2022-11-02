@@ -34,13 +34,42 @@
 ## :computer:&nbsp;개발 주요 산출물 및 실행 예시 화면
 
 <div align="center">
+  <img width="800" height="103" align = "center" src="https://user-images.githubusercontent.com/92598128/199414159-b5436eba-eed5-4c7b-9a3b-c9e83075f185.png">
+</div>
 
-  <img width="800" height="954.31" align = "center" src="https://user-images.githubusercontent.com/92598128/199394686-6cab26d4-534a-4543-8f98-f5abc455303c.png">
+<a href = "https://www.figma.com/file/sg5eP0oS3kRdep9HDpHRND/%EC%B1%84%ED%94%8C%EB%A6%B0-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B5%9C%EC%A2%85%EB%B3%B8?node-id=0%3A1" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.figma.com/file</a>
+
+<div align="center">
+  <img width="750" height="470.5" align = "center" src="https://user-images.githubusercontent.com/92598128/199414231-20385788-2910-415a-8623-2b10eca735b1.png">
 </div>
 
 <div align="center">
-  <img width="800" height="659" align = "center" src="https://user-images.githubusercontent.com/92598128/199395443-7cc9e5dc-1dde-4ee7-add4-6f86f36cc082.png">
+  <img width="800" height="25" align = "center" src="https://user-images.githubusercontent.com/92598128/199414294-1beca72f-d11d-4d85-9c4a-c338e7e1dae9.png">
 </div>
+
+<div align="center">
+  <img width="750" height="683.79" align = "center" src="https://user-images.githubusercontent.com/92598128/199414754-1f7accf8-3d83-46ad-adea-21d69c69ffc6.png">
+</div>
+
+<div align="center">
+  <img width="800" height="25" align = "center" src="https://user-images.githubusercontent.com/92598128/199414906-1e501926-83a4-4e7b-a0a8-46b69df737fa.png">
+</div>
+
+
+
+<div align="center">
+  <img width="800" height="103" align = "center" src="https://user-images.githubusercontent.com/92598128/199418233-a44f0119-ea63-4f63-945e-c42fbd5ba63b.png">
+</div>
+
+<div align="center">
+  <img width="750" height="420.88" align = "center" src="https://user-images.githubusercontent.com/92598128/199418798-3198c4b4-62bc-45e4-aa1a-fb6c4a1ffdad.png">
+</div> 
+
+<div align="center">
+  <img width="800" height="40" align = "center" src="https://user-images.githubusercontent.com/92598128/199418863-da8bb870-6c20-45bb-aa76-8571288b7e20.png">
+</div>
+
+<br><br>
 
 <div align="center">
   <img width="800" height="954.31" align = "center" src="https://user-images.githubusercontent.com/92598128/199395649-d3daf1b4-7a56-44e8-80c4-d6a8c90e8d8e.png">
