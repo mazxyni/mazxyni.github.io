@@ -37,7 +37,7 @@
   <img width="800" height="103" align = "center" src="https://user-images.githubusercontent.com/92598128/199414159-b5436eba-eed5-4c7b-9a3b-c9e83075f185.png">
 </div>
 
-<a href = "https://www.figma.com/file/sg5eP0oS3kRdep9HDpHRND/%EC%B1%84%ED%94%8C%EB%A6%B0-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B5%9C%EC%A2%85%EB%B3%B8?node-id=0%3A1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.figma.com/file</a>
+<a href = "https://www.figma.com/file/sg5eP0oS3kRdep9HDpHRND/%EC%B1%84%ED%94%8C%EB%A6%B0-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B5%9C%EC%A2%85%EB%B3%B8?node-id=0%3A1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.figma.com/file</a>
 
 <div align="center">
   <img width="750" height="470.5" align = "center" src="https://user-images.githubusercontent.com/92598128/199414231-20385788-2910-415a-8623-2b10eca735b1.png">
@@ -94,7 +94,7 @@
 
 <div>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://lab.hanium.or.kr/22_HF149/22_hf149
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://lab.hanium.or.kr/22_HF149/22_hf149
 </div>
 
 <div align="center">
